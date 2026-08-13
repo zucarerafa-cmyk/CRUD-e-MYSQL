@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>index</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Academia VibeFit</h1>
+<h1>Academia BloomFit</h1>
+
 
 <h2>Cadastrar aluno: </h2>
 <form method="POST" action="cadastrar.php">
